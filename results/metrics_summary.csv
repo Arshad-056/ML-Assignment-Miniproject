@@ -1,0 +1,4 @@
+Category,Dataset,Best Algorithm,Best Metric Value
+Clustering,Mall_Customers.csv,K-Means,Silhouette: 0.5539
+Regression,insurance_pre.csv,Gradient Boosting Regressor,R2: 0.8781
+Classification,Social_Network_Ads.csv,AdaBoost Classifier,Accuracy: 90.00%
